@@ -2,6 +2,13 @@
 
 [joseph-fanous.dev](https://www.joseph-fanous.dev) (work in progress 😄)
 
+😄 Pronouns: he/him
+🏫 School: Ontario Tech University
+🌱 Degree: BSc in Comnputer Science - Comprehensive
+🔭 I’m currently working on: a Pomodoro study buddy discord bot && my website!
+📫 How to reach me: email me at joseph.fanous@ontariotechu.net
+⚡ Fun fact: I used to play hockey!
+
 
 <!--
 **JosephFanous/JosephFanous** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
