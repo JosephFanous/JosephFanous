@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-[joseph-fanous.dev](https://www.joseph-fanous.dev) (work in progress :) )
+[joseph-fanous.dev](https://www.joseph-fanous.dev) (work in progress 😄)
 
 
 <!--
