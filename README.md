@@ -1,6 +1,8 @@
 ### Hi there 👋
 
-[joseph-fanous.dev](https://www.joseph-fanous.dev)
+[joseph-fanous.dev](https://www.joseph-fanous.dev) (work in progress :) )
+
+
 <!--
 **JosephFanous/JosephFanous** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
